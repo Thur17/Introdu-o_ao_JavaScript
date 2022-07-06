@@ -7,7 +7,7 @@
 
 ## Introdução ao JavaScript - Primeiro projeto aplicando o conhecimento.
  
-### Coloque traje e vamos la conferir como ficou
+### Coloque seu traje e vamos la conferir como ficou
 [![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](https://thur17.github.io/Introducao_ao_JavaScript/)
 
 [![web 1](https://raw.githubusercontent.com/Thur17/Introducao_ao_JavaScript/master/assets/img/Projeto%20java.png)](https://thur17.github.io/Introducao_ao_JavaScript/)
